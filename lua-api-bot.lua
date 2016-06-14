@@ -32,7 +32,7 @@ local start = [[
 
 function is_admin(msg)-- Check if user is admin or not
   local var = false
-  local admins = {87946267}-- put your id here
+  local admins = {87946267,0}-- put your id here
   for k,v in pairs(admins) do
     if msg.from.id == v then
       var = true
