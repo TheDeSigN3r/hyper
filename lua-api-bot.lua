@@ -24,31 +24,6 @@ local start = [[
 - _test_
 
 /hyper [ [text](url) ]
-- [Lua Api Bot](Telegram.Me/LuaApiBot)
-
-*FOR EXAMPLE*
-
-/hyper [`Hi`]
-[*I'm a api bot* ]
-[_Allwen created me_]
-[[My Creator]][(http://telegram.me\allwwn)]
-
-*RESULT*
-
-`Hi`
-*I'm a api bot* 
-_Allwen created me_
-[My Creator](http://telegram.me/allwen)
-
-*OTHER COMMANDS*
-
-*sticker to photo*
-`send sticker to change format to photo`
-
-*photo to sticker*
-`send photo to create sticker`
-
-_Thanks To Use Me !_
 ]] 
 
 -------
